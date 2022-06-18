@@ -4,8 +4,11 @@
   
 
   ## Description
-  For this week's challenge, we were too add offline functionality to an already functioning Budget Tracker app. This was done by adding Indexed.db and Service Workers. I also utilized mongodb and express.js to help with this project.
-  You can see a preview of the site below!
+  For this week's challenge, we had to add offline functionality to an already functioning Budget Tracker app. This was done by adding Indexed.db and Service Workers. I also utilized mongodb and express.js to help with this project. I was able to add the offline functionality by going back through previous lessons and reviewing what I've learned.
+
+  I was able to add Indexed.db by going back through my Module 18 lessons and activities. I also was given a refresher on how to connect MongoDB - Atlas to Heroku in order to deploy this application. For the Service Worker, I looked back through this week's Lesson 4. Overall, this week was a success in not only becoming familiar with prewritten code, but also in looking through past projects in order to gain understanding and build functionality.
+
+  You can see a preview of the site below and visit it [here.](https://young-anchorage-05330.herokuapp.com/)
   ![screenshot of budget tracker ](./public/preview1.png)
 
   ## Table of Contents
@@ -35,4 +38,4 @@
 
   ## License
   
-  This application is licensed by [MIT](https://opensource.org/licenses/MIT)
+  This application is licensed by [MIT](https://opensource.org/licenses/MIT).
